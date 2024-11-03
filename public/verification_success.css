@@ -1,0 +1,36 @@
+body {
+  background-color: #FAFAFA;
+  color: #2B2B2B;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 0 20px;
+}
+
+.content {
+  text-align: left;
+  padding: 0 20px 0 20px;
+}
+
+.social-links a {
+  text-decoration: none;
+  font-size: 32px;
+  margin: 0 8px;
+}
+
+.footer {
+  text-align: center;
+}
